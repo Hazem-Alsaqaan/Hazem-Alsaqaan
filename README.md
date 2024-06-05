@@ -1,5 +1,5 @@
 ## Hi 👋 I am Hazem
-**I am a MERN stack developer** with an eye for design, I specialize in building systems and applications focused websites using HTML, CSS, Javascript, React, node, express, mongodb ,knowledgeable of front-end and back-end development requirements, I can handle any part of process with easy,  I like to contribute with designing pages to better reflect the design ,edit and building large projects
+" I am a MERN Stack developer. I specialize in translating UI/UX designs into front-end code for both mobile applications and websites. I use ReactJS and Next.js to build websites, and React Native for mobile applications. Additionally, I can contribute to back-end development using Node.js, MongoDB, and Express. Finally, I am capable of handling any part of the development process with ease.”
 
 ---
  #### Skills:
