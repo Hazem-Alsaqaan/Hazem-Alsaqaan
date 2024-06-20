@@ -10,12 +10,12 @@
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901836/skills/typescript_5968381_umeebc.png) TypeScript 
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/physics_753244_vwsqwp.png) React-js 
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/physics_753244_vwsqwp.png) React-native 
- * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718903429/skills/redux_agvqph.png) Redux & Redux-toolkit
+ * ![]() Redux & Redux-toolkit
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718903566/skills/bootstrap_5968672_cbowtv.png) BootStrap
- * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718903565/skills/tailwind_yz77sk.png) Tailwind-css
+ * ![]() Tailwind-css
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901834/skills/node-js_5968322_o0xjho.png) Node-js 
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/database-storage_5732827_bjoowh.png) mongo-db 
- * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718903566/skills/express_ynbus1.png) Express
+ * ![]() Express
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/git_4494740_i34m9o.png) git 
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/github_3291667_bkhdhu.png) github 
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/agile_5931548_i0gjrx.png) Agile 
