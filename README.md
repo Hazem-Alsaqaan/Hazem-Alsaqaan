@@ -5,16 +5,16 @@
  ![](https://wallpapercave.com/wp/wp8725091.jpg)
  #### Skills:
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901432/skills/html-5_5968267_vklibv.png) HTML
- * CSS ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901891/skills/css-3_5968242_gver9q.png)
- * JavaScript ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901852/skills/js_5968292_z8afnr.png)
- * TypeScript ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901836/skills/typescript_5968381_umeebc.png)
- * React-js ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/physics_753244_vwsqwp.png)
- * React-native ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/physics_753244_vwsqwp.png)
- * Node-js ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901834/skills/node-js_5968322_o0xjho.png)
- * mongo-db ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/database-storage_5732827_bjoowh.png)
- * github ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/git_4494740_i34m9o.png)
- * git ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/git_4494740_i34m9o.png)
- * Agile ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/agile_5931548_i0gjrx.png)
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901891/skills/css-3_5968242_gver9q.png) CSS 
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901852/skills/js_5968292_z8afnr.png) JavaScript 
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901836/skills/typescript_5968381_umeebc.png) TypeScript 
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/physics_753244_vwsqwp.png) React-js 
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/physics_753244_vwsqwp.png) React-native 
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901834/skills/node-js_5968322_o0xjho.png) Node-js 
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/database-storage_5732827_bjoowh.png) mongo-db 
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/git_4494740_i34m9o.png) github 
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/git_4494740_i34m9o.png) git 
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/agile_5931548_i0gjrx.png) Agile 
  * Express
  * Redux & Redux-toolkit
  * BootStrap
