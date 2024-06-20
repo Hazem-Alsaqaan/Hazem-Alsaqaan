@@ -4,7 +4,7 @@
 ---
  ![](https://wallpapercave.com/wp/wp8725091.jpg)
  #### Skills:
- * HTML ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901432/skills/html-5_5968267_vklibv.png)
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901432/skills/html-5_5968267_vklibv.png) HTML
  * CSS ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901891/skills/css-3_5968242_gver9q.png)
  * JavaScript ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901852/skills/js_5968292_z8afnr.png)
  * TypeScript ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901836/skills/typescript_5968381_umeebc.png)
