@@ -12,13 +12,7 @@
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/physics_753244_vwsqwp.png) React-native 
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718904224/skills/9118217_redux_fill_icon_mm9lwp.png) Redux & Redux-toolkit
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718903566/skills/bootstrap_5968672_cbowtv.png) BootStrap
- * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718904134/skills/9055799_bxl_tailwind_css_icon_2_nmdkam.png) Tailwind-css
- * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901834/skills/node-js_5968322_o0xjho.png) Node-js 
- * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/database-storage_5732827_bjoowh.png) mongo-db 
- * ![]() Express
- * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/git_4494740_i34m9o.png) git 
- * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/github_3291667_bkhdhu.png) github 
- * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/agile_5931548_i0gjrx.png) Agile 
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718904134/skills/9055799_bxl_tailwind_css_icon_2_nmdkam.png) Tailwind-css * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901834/skills/node-js_5968322_o0xjho.png) Node-js * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/database-storage_5732827_bjoowh.png) mongo-db * ![]() Express * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/git_4494740_i34m9o.png) git * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/github_3291667_bkhdhu.png) github * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718902434/skills/agile_5931548_i0gjrx.png) Agile 
 ---
 #### Connect with me:
 * [linkedIn](https://www.linkedin.com/in/hazem-alsaqaan-53b498174/)
