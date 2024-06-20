@@ -10,9 +10,9 @@
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901836/skills/typescript_5968381_umeebc.png) TypeScript 
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/physics_753244_vwsqwp.png) React-js 
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/physics_753244_vwsqwp.png) React-native 
- * ![]() Redux & Redux-toolkit
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718904224/skills/9118217_redux_fill_icon_mm9lwp.png) Redux & Redux-toolkit
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718903566/skills/bootstrap_5968672_cbowtv.png) BootStrap
- * ![]() Tailwind-css
+ * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718904134/skills/9055799_bxl_tailwind_css_icon_2_nmdkam.png) Tailwind-css
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901834/skills/node-js_5968322_o0xjho.png) Node-js 
  * ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901835/skills/database-storage_5732827_bjoowh.png) mongo-db 
  * ![]() Express
