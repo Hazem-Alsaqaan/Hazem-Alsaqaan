@@ -4,7 +4,7 @@
 ---
  #### Skills:
  ![](https://wallpapercave.com/wp/wp8725091.jpg)
-
+![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1718901199/skills/html-5_5968267_sw3puv.png)
 ---
 #### Connect with me:
 * [linkedIn](https://www.linkedin.com/in/hazem-alsaqaan-53b498174/)
