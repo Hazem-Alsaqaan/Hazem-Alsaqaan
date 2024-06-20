@@ -4,12 +4,12 @@
 ---
  ![](https://wallpapercave.com/wp/wp8725091.jpg)
  #### Skills:
- * Front-end:   HTML  * CSS  * React-js  * Redux & Redux-toolkit  * BootStrap  * Tailwind-css
- * Mobile-app:  React-native
- * Programming Languages: JavaScript  * TypeScript 
- * Back-end:    Node-js  * mongo-db  * Express
- * Version Control:   git  * github
- * Other:     Agile 
+ * `Front-end`:   HTML  * CSS  * React-js  * Redux & Redux-toolkit  * BootStrap  * Tailwind-css
+ * `Mobile-app`:  React-native
+ * `Programming Languages`: JavaScript  * TypeScript 
+ * `Back-end`:    Node-js  * mongo-db  * Express
+ * `Version Control`:   git  * github
+ * `Other`:     Agile 
 ---
 #### Connect with me:
 * [linkedIn](https://www.linkedin.com/in/hazem-alsaqaan-53b498174/)
