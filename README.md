@@ -1,5 +1,5 @@
 ## Hi 👋 I am Hazem
-" I am a MERN Stack Developer with 4+ years of experience in building scalable web and mobile applications. Specialized in React.js, Next.js, and React Native, with strong backend expertise in Node.js and MongoDB. Passionate about delivering high-quality code, mentoring junior developers, and collaborating with cross-functional teams”
+" I am a MERN Stack Developer experienced in building scalable web and mobile applications. Specialized in React.js, Next.js, and React Native, with strong backend expertise in Node.js and MongoDB. Passionate about delivering high-quality code, mentoring junior developers, and collaborating with cross-functional teams”
 
 ---
  ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1743206278/GitHubBanner_easotl.jpg)
