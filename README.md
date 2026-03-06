@@ -1,15 +1,15 @@
 ## Hi 👋 I am Hazem
-" I am a MERN Stack developer. I specialize in translating UI/UX designs into front-end code for both mobile applications and websites. I use ReactJS and Next.js to build websites, and React Native for mobile applications. Additionally, I can contribute to back-end development using Node.js, MongoDB, and Express. Finally, I am capable of handling any part of the development process with ease.”
+" I am a MERN Stack Developer with 4+ years of experience in building scalable web and mobile applications. Specialized in React.js, Next.js, and React Native, with strong backend expertise in Node.js and MongoDB. Passionate about delivering high-quality code, mentoring junior developers, and collaborating with cross-functional teams”
 
 ---
  ![](https://res.cloudinary.com/dkhu7rt8n/image/upload/v1743206278/GitHubBanner_easotl.jpg)
  #### Skills:
- * `Front-end`:   HTML  * CSS  * React-js  * Redux & Redux-toolkit  * BootStrap  * Tailwind-css
+ * `Front-end`:   HTML  * CSS  * React-js  * Next-js  * Redux & Redux-toolkit  * BootStrap  * Tailwind-css
  * `Mobile-app`:  React-native
  * `Programming Languages`: JavaScript  * TypeScript 
  * `Back-end`:    Node-js  * mongo-db  * Express
  * `Version Control`:   git  * github
- * `Other`:     Agile 
+ * `Other`:   * Agile   * Deployment   * Excellent communication  * Public speaking   * mentoring junior developers   * training fresh graduates  
 ---
 #### Connect with me:
 * [linkedIn](https://www.linkedin.com/in/hazem-alsaqaan-53b498174/)
@@ -17,11 +17,9 @@
 * [instagram](https://www.instagram.com/hazem.alsaqaan/)
 
 ---
-- 🔭 I’m currently seeking a job ...
 - 💬 Ask me about MERN stack ...
 
 <!--
-- 🔭 I’m currently seeking a job ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about frontend ...
